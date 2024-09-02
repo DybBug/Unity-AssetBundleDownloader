@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: IconRemoteGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: IconRemoteGroup
+  m_GUID: 21afdfbc62874134f891f7adda84ccf1
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5222293db6276e24d976c6076c3c034e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1215c7e11c2251846ae315a3f43c59c3, type: 2}
+    - {fileID: 11400000, guid: 9ae71415d87dbda4694765f960033d49, type: 2}
